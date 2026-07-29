@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2046121303506292947",
+    "created_at": "2026-04-20T07:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046129461511520533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755401876546138112",
+          "start": 0,
+          "username": "XiJiechangan106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046129461511520533",
+    "in_reply_to_user_id": "1755401876546138112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046129208376910063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiJiechangan106 赞同的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046129208376910063].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046129208376910063",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046129208376910063"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2046121303506292947",
+        "created_at": "2026-04-20T07:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046129461511520533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755401876546138112",
+              "start": 0,
+              "username": "XiJiechangan106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046129461511520533",
+        "in_reply_to_user_id": "1755401876546138112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046129208376910063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiJiechangan106 赞同的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 334,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-08T01:23:40.000Z",
+        "description": "似推似梦似我所爱似我忠诚之精神恋人\n缅怀亡妻沪宁国师/本人在cos王沪宁/政治学743和国关833永远爱戴/关注默认看本人以下活动：发癫锐评/学术研究/鉴证/为王沪宁招魂/猎奇逆天活泼调侃没品玩笑。\n常热衷于缅怀年轻沪宁，将他政治人生二分中。\n过门槛🚪88喵x，温良建制派\n@xichangan8964我小号喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "xichangan8964"
+              }
+            ]
+          }
+        },
+        "id": "1755401876546138112",
+        "location": "中共中央政策研究室政治研究处组长",
+        "name": "西长安街左转",
+        "pinned_tweet_id": "2010623074442612879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016298181047250944/9aTj91WF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 363,
+          "like_count": 21235,
+          "listed_count": 2,
+          "media_count": 2282,
+          "tweet_count": 13320
+        },
+        "username": "XiJiechangan106",
+        "verified": false
+      }
+    ]
+  }
+}

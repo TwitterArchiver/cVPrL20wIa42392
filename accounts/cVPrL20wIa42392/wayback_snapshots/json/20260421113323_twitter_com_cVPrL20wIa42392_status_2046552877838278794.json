@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2046539605214896566",
+    "created_at": "2026-04-21T11:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046552877838278794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821762215164424192",
+          "start": 0,
+          "username": "ChunBu98629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046552877838278794",
+    "in_reply_to_user_id": "1821762215164424192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046552009986416671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunBu98629 囤囤鼠来的👉🏻👈🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2046539605214896566",
+        "created_at": "2026-04-21T11:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046552877838278794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821762215164424192",
+              "start": 0,
+              "username": "ChunBu98629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046552877838278794",
+        "in_reply_to_user_id": "1821762215164424192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046552009986416671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunBu98629 囤囤鼠来的👉🏻👈🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821762215164424192",
+        "conversation_id": "2046539605214896566",
+        "created_at": "2026-04-21T11:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046552009986416671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046552009986416671",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046539605214896566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 😭我好羡慕你pr那么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 451,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T04:15:48.000Z",
+        "description": "🚪388/520/1314/2355/5200\n私信除口令外不回 不退🚪欢迎女宝宝们来找我互转互fo",
+        "id": "1821762215164424192",
+        "name": "如果阴郁是种天赋",
+        "pinned_tweet_id": "1992540562973708378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045674360552476672/6cMXr6Eu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6066,
+          "following_count": 202,
+          "like_count": 2269,
+          "listed_count": 20,
+          "media_count": 36,
+          "tweet_count": 574
+        },
+        "username": "ChunBu98629",
+        "verified": false
+      }
+    ]
+  }
+}

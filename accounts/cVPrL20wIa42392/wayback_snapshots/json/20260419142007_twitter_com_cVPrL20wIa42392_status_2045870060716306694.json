@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2045762139655377324",
+    "created_at": "2026-04-19T14:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045870060716306694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1272228569066934274",
+          "start": 0,
+          "username": "jirairuriame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045870060716306694",
+    "in_reply_to_user_id": "1272228569066934274",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045869482342539325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jirairuriame Yes!!! I think the tablets work the best!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045762139655377324",
+        "created_at": "2026-04-19T14:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045870060716306694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1272228569066934274",
+              "start": 0,
+              "username": "jirairuriame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045870060716306694",
+        "in_reply_to_user_id": "1272228569066934274",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045869482342539325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jirairuriame Yes!!! I think the tablets work the best!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272228569066934274",
+        "conversation_id": "2045762139655377324",
+        "created_at": "2026-04-19T14:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045869482342539325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045869482342539325",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045762139655377324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 Interesting that 4homet in tablet form excists"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 277,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-14T18:05:34.000Z",
+        "description": "jirai ryona menhera brainrot aspiring vtuber.\nApex mahou shoujo of the enormita taikatyttö crew 🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jirairuriame.straw.page",
+                "end": 23,
+                "expanded_url": "https://jirairuriame.straw.page/",
+                "start": 0,
+                "url": "https://t.co/BqjbLplGgd"
+              }
+            ]
+          }
+        },
+        "id": "1272228569066934274",
+        "location": "Tampere, Finland",
+        "name": "🔪 瑠璃あめ 🔪",
+        "pinned_tweet_id": "2041157725489402180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042749226338193408/1LkwlvMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 850,
+          "like_count": 135491,
+          "listed_count": 4,
+          "media_count": 12150,
+          "tweet_count": 67579
+        },
+        "url": "https://t.co/BqjbLplGgd",
+        "username": "jirairuriame",
+        "verified": false
+      }
+    ]
+  }
+}

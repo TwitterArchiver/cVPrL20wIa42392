@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2046143199769756017",
+    "created_at": "2026-04-20T08:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046143199769756017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liketherain223…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/liketherain223/status/2045830070955385258",
+          "start": 18,
+          "url": "https://t.co/0Uejr7v9Az"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046143199769756017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045830070955385258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好喜欢这个淤青，好奇是怎么做到的🤔 https://t.co/0Uejr7v9Az"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2045830061442654209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ_mgMa4AEKRc-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2046143199769756017",
+        "created_at": "2026-04-20T08:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046143199769756017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liketherain223…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/liketherain223/status/2045830070955385258",
+              "start": 18,
+              "url": "https://t.co/0Uejr7v9Az"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046143199769756017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045830070955385258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好喜欢这个淤青，好奇是怎么做到的🤔 https://t.co/0Uejr7v9Az"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045830061442654209"
+          ]
+        },
+        "author_id": "1406363577150234624",
+        "conversation_id": "2045830070955385258",
+        "created_at": "2026-04-19T11:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045830070955385258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spuDTtpLGe",
+              "end": 43,
+              "expanded_url": "https://x.com/LIKETHERAIN223/status/2045830070955385258/photo/1",
+              "media_key": "3_2045830061442654209",
+              "start": 20,
+              "url": "https://t.co/spuDTtpLGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045830070955385258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 45148,
+          "like_count": 330,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了吧。我真的很喜欢这个淤青雪花。 https://t.co/spuDTtpLGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 335,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-19T21:29:48.000Z",
+        "description": "06（双相情感障碍/精神分裂症/ADHD/ASD/PTSD/BPD）不婚主义 丁克 switch泛性恋 喜欢记录日常和身体 艺术作品 ❌线下 私信不闲聊 不加好友 不接推广 互关可加v @LIKETHERAIN69",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "LIKETHERAIN69"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wendy2232",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wendy2232",
+                "start": 0,
+                "url": "https://t.co/lhKs52NgWr"
+              }
+            ]
+          }
+        },
+        "id": "1406363577150234624",
+        "name": "水煮鸡胸肉梦女Eternity",
+        "pinned_tweet_id": "1915034981447221738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947317557469573120/Opas-giU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4212,
+          "following_count": 372,
+          "like_count": 10790,
+          "listed_count": 10,
+          "media_count": 867,
+          "tweet_count": 3733
+        },
+        "url": "https://t.co/lhKs52NgWr",
+        "username": "LIKETHERAIN223",
+        "verified": false
+      }
+    ]
+  }
+}

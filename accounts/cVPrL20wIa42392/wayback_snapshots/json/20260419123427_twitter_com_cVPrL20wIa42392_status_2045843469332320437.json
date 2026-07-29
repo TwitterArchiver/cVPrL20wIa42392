@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045843453242937345",
+        "3_2045843453255589888"
+      ]
+    },
+    "author_id": "2045022236201918465",
+    "conversation_id": "2045840843618324646",
+    "created_at": "2026-04-19T12:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045843469332320437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qT3ifm8uq9",
+          "end": 46,
+          "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045843469332320437/photo/1",
+          "media_key": "3_2045843453242937345",
+          "start": 23,
+          "url": "https://t.co/qT3ifm8uq9"
+        },
+        {
+          "display_url": "pic.x.com/qT3ifm8uq9",
+          "end": 46,
+          "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045843469332320437/photo/1",
+          "media_key": "3_2045843453255589888",
+          "start": 23,
+          "url": "https://t.co/qT3ifm8uq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045843469332320437",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045840843618324646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 是广西！！！ https://t.co/qT3ifm8uq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045843453242937345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRLyAiakAEGJKM.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045843453255589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRLyAlboAApPMf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2530,
+        "media_key": "3_2045840694389215232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRJRbAbkAAB2au.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045843453242937345",
+            "3_2045843453255589888"
+          ]
+        },
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045840843618324646",
+        "created_at": "2026-04-19T12:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045843469332320437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qT3ifm8uq9",
+              "end": 46,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045843469332320437/photo/1",
+              "media_key": "3_2045843453242937345",
+              "start": 23,
+              "url": "https://t.co/qT3ifm8uq9"
+            },
+            {
+              "display_url": "pic.x.com/qT3ifm8uq9",
+              "end": 46,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045843469332320437/photo/1",
+              "media_key": "3_2045843453255589888",
+              "start": 23,
+              "url": "https://t.co/qT3ifm8uq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045843469332320437",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045840843618324646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 是广西！！！ https://t.co/qT3ifm8uq9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045840694389215232"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2045840843618324646",
+        "created_at": "2026-04-19T12:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045840843618324646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQsMmmJjZl",
+              "end": 40,
+              "expanded_url": "https://x.com/Rococo90933671/status/2045840843618324646/photo/1",
+              "media_key": "3_2045840694389215232",
+              "start": 17,
+              "url": "https://t.co/YQsMmmJjZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045840843618324646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样的小区楼梯间会给你什么感觉？ https://t.co/YQsMmmJjZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 274,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10230,
+          "following_count": 2919,
+          "like_count": 35502,
+          "listed_count": 30,
+          "media_count": 3710,
+          "tweet_count": 20657
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

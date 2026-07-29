@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2046149330105741558",
+    "created_at": "2026-04-20T08:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046151031256731871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1914990478925443072",
+          "start": 0,
+          "username": "ninis07QaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046151031256731871",
+    "in_reply_to_user_id": "1914990478925443072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046149330105741558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninis07QaQ 求也得排队🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2046149330105741558",
+        "created_at": "2026-04-20T08:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046151031256731871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914990478925443072",
+              "start": 0,
+              "username": "ninis07QaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046151031256731871",
+        "in_reply_to_user_id": "1914990478925443072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046149330105741558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninis07QaQ 求也得排队🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914990478925443072",
+        "conversation_id": "2046149330105741558",
+        "created_at": "2026-04-20T08:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046149330105741558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cvprl20wia4239…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cvprl20wia42392/status/2045867442258477497",
+              "start": 5,
+              "url": "https://t.co/RVfbIlL2F2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046149330105741558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045867442258477497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我求求了 https://t.co/RVfbIlL2F2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 342,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T10:31:35.000Z",
+        "description": "你们好这是ninis的3.0版本 -🇺🇸 07 entp ｜od｜自伤｜焦虑｜双向 ｜解离 ｜病み垢｜💬中文⭕️/English⭕️/日本語⭕️ 我是一个很好的小女孩我没惹你们任何人 想过门请先fo我！最好的龟🫰🏻 @yuuuziiijianggg喜欢和小女孩交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "yuuuziiijianggg"
+              }
+            ]
+          }
+        },
+        "id": "1914990478925443072",
+        "location": "你妈的逼",
+        "name": "妮妮斯3.0🩸",
+        "pinned_tweet_id": "2043062566633771261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914990877711482880/nIrCzmL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 90,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 933
+        },
+        "username": "ninis07QaQ",
+        "verified": false
+      }
+    ]
+  }
+}

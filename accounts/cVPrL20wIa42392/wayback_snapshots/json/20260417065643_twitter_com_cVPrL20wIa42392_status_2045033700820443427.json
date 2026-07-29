@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2045033700820443427",
+    "created_at": "2026-04-17T06:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T07:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045033700820443427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sjshb57/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/sjshb57/status/2044425074976117030",
+          "start": 13,
+          "url": "https://t.co/X85ATDP3mL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045033700820443427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044425074976117030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😖我想复活申诉回来呜呜呜 https://t.co/X85ATDP3mL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2044425070429552640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9BxQzbQAABgey.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045033700820443427",
+        "created_at": "2026-04-17T06:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045033700820443427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sjshb57/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/sjshb57/status/2044425074976117030",
+              "start": 13,
+              "url": "https://t.co/X85ATDP3mL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045033700820443427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044425074976117030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😖我想复活申诉回来呜呜呜 https://t.co/X85ATDP3mL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044425070429552640"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2044425074976117030",
+        "created_at": "2026-04-15T14:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044425074976117030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1455784742922555395",
+              "start": 16,
+              "username": "lengcuicui119"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqBErSE3w1",
+              "end": 54,
+              "expanded_url": "https://x.com/sjshb57/status/2044425074976117030/photo/1",
+              "media_key": "3_2044425070429552640",
+              "start": 31,
+              "url": "https://t.co/fqBErSE3w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044425074976117030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么刷着刷着突然就少一个人..\n@lengcuicui119 https://t.co/fqBErSE3w1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045026285047742517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？| 失落文学 | 病痛患者 | 唯心主义 | 有时也会期待苦痛奇迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 397,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": false
+      }
+    ]
+  }
+}

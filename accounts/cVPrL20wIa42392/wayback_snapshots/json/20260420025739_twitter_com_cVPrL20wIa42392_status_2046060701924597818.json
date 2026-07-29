@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2046050629257461765",
+    "created_at": "2026-04-20T02:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046060701924597818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "miss_u_shen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046060701924597818",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046050629257461765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miss_u_shen 老师fofo！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2046050629257461765",
+        "created_at": "2026-04-20T02:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046060701924597818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "miss_u_shen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046060701924597818",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046050629257461765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miss_u_shen 老师fofo！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490976522362302465",
+        "conversation_id": "2046050629257461765",
+        "created_at": "2026-04-20T02:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046050629257461765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046050629257461765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 179,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "互互oder 餐券 日系 跨 列表给我转转啦啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 306,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "“You may know a person and see their face, but you cannot know their heart.”\n-这里是精神病的日记本，一直更新奇异搞笑遗书哪天不回就是死啦",
+        "id": "1490976522362302465",
+        "location": "ㅤㅤㅤㅤ",
+        "name": "坂本龍一",
+        "pinned_tweet_id": "1882598938395697606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026231673411764224/A7nsKyEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8981,
+          "following_count": 1154,
+          "like_count": 7609,
+          "listed_count": 18,
+          "media_count": 1936,
+          "tweet_count": 14229
+        },
+        "username": "miss_u_shen",
+        "verified": false
+      }
+    ]
+  }
+}

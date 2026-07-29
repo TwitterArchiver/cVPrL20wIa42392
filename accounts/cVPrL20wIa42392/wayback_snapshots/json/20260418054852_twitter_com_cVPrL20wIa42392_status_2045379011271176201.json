@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026652861669715974"
+      ],
+      "media_source_tweet_id": [
+        "2026652867160051770"
+      ]
+    },
+    "author_id": "2045022236201918465",
+    "conversation_id": "2045379011271176201",
+    "created_at": "2026-04-18T05:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045379011271176201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999504877337395200",
+          "start": 3,
+          "username": "chuan_0123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N9lgga76kT",
+          "end": 129,
+          "expanded_url": "https://x.com/chuan_0123/status/2026652867160051770/photo/1",
+          "media_key": "3_2026652861669715974",
+          "start": 106,
+          "url": "https://t.co/N9lgga76kT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045379011271176201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026652867160051770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuan_0123: ⇪top\n我是川川\n此号用来发碎碎念和乱七八糟的日常，有自伤/od内容，成分很复杂，总之就是我想说啥就说啥！现生朋友刷到我请当没看见，我会很感谢你。\n其他想说的在简介了！\n以上！ https://t.co/N9lgga76kT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2026652861669715974",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAeCj7aMAY8CBG.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026652861669715974"
+          ],
+          "media_source_tweet_id": [
+            "2026652867160051770"
+          ]
+        },
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045379011271176201",
+        "created_at": "2026-04-18T05:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045379011271176201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999504877337395200",
+              "start": 3,
+              "username": "chuan_0123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9lgga76kT",
+              "end": 129,
+              "expanded_url": "https://x.com/chuan_0123/status/2026652867160051770/photo/1",
+              "media_key": "3_2026652861669715974",
+              "start": 106,
+              "url": "https://t.co/N9lgga76kT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045379011271176201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026652867160051770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuan_0123: ⇪top\n我是川川\n此号用来发碎碎念和乱七八糟的日常，有自伤/od内容，成分很复杂，总之就是我想说啥就说啥！现生朋友刷到我请当没看见，我会很感谢你。\n其他想说的在简介了！\n以上！ https://t.co/N9lgga76kT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026652861669715974"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "conversation_id": "2026652867160051770",
+        "created_at": "2026-02-25T13:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026652867160051770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9lgga76kT",
+              "end": 113,
+              "expanded_url": "https://x.com/chuan_0123/status/2026652867160051770/photo/1",
+              "media_key": "3_2026652861669715974",
+              "start": 90,
+              "url": "https://t.co/N9lgga76kT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026652867160051770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16596,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "⇪top\n我是川川\n此号用来发碎碎念和乱七八糟的日常，有自伤/od内容，成分很复杂，总之就是我想说啥就说啥！现生朋友刷到我请当没看见，我会很感谢你。\n其他想说的在简介了！\n以上！ https://t.co/N9lgga76kT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 168,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "20↑/無言フォロー失礼いたしました/我是川川/祝你以后都开心/回fo请私信/🚪888互关免费/有女友🥺我们很相爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 362,
+          "like_count": 12017,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 6479
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2044588959435796913",
+    "created_at": "2026-04-17T09:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045074529580679315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        },
+        {
+          "end": 23,
+          "id": "2041898123061030912",
+          "start": 13,
+          "username": "inlineint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045074529580679315",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044588959435796913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 @inlineint 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-17T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045074529580679315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 23,
+              "id": "2041898123061030912",
+              "start": 13,
+              "username": "inlineint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045074529580679315",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044588959435796913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @inlineint 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-16T01:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:27:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044588538117906515",
+          "2044588959435796913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044588959435796913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2188,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "600fo的抽奖来了\n一等奖：绿普2盒或一盒国补（折20CNY）*1人\n二等奖：绿普1盒（折10CNY）*2人\n三等奖：ym一盒（折8CNY）*2人\n\n关注+转发+点赞+评论参与，4月18日下午2点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045026285047742517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 35,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 875,
+          "like_count": 56241,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 449
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T15:23:12.000Z",
+        "description": "HRT2026.3.9🍥/INTP/已炸柜/家长党/轻抑中焦/OD/高中生/OIer/彩笔音游人/不键证/看成分互关/喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/7YyxI014l1"
+              }
+            ]
+          }
+        },
+        "id": "2041898123061030912",
+        "location": "天堂",
+        "name": "Register Int🍥",
+        "pinned_tweet_id": "2045065597583495312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899946777985024/OgfcO6ZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 284,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/7YyxI014l1",
+        "username": "inlineint",
+        "verified": true
+      }
+    ]
+  }
+}

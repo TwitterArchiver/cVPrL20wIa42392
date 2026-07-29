@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2045867442258477497",
+    "created_at": "2026-04-19T14:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045867442258477497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zdnxxc/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/zdnxxc/status/2045866838371045388",
+          "start": 16,
+          "url": "https://t.co/V4WGZmuHWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045867442258477497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045866838371045388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bron大人，请狠狠的鞭挞我🥵 https://t.co/V4WGZmuHWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2045866832285032448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRhC2QaYAANmVj.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045867442258477497",
+        "created_at": "2026-04-19T14:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045867442258477497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zdnxxc/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/zdnxxc/status/2045866838371045388",
+              "start": 16,
+              "url": "https://t.co/V4WGZmuHWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045867442258477497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045866838371045388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bron大人，请狠狠的鞭挞我🥵 https://t.co/V4WGZmuHWL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045866832285032448"
+          ]
+        },
+        "author_id": "1431510026221350912",
+        "conversation_id": "2045414419635855827",
+        "created_at": "2026-04-19T14:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045866838371045388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lLVrWkTYD",
+              "end": 40,
+              "expanded_url": "https://x.com/ZdnxXc/status/2045866838371045388/photo/1",
+              "media_key": "3_2045866832285032448",
+              "start": 17,
+              "url": "https://t.co/0lLVrWkTYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045866838371045388",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045414419635855827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 https://t.co/0lLVrWkTYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 276,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T06:52:50.000Z",
+        "description": "迷幻美学欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xczdnx",
+                "end": 23,
+                "expanded_url": "https://t.me/xczdnx",
+                "start": 0,
+                "url": "https://t.co/ife6M5ChCI"
+              }
+            ]
+          }
+        },
+        "id": "1431510026221350912",
+        "location": "阿姆斯特丹",
+        "name": "xczdnx🍄",
+        "pinned_tweet_id": "2009133793559683578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451477295433240599/hBoKxuEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 103,
+          "like_count": 1115,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/ife6M5ChCI",
+        "username": "ZdnxXc",
+        "verified": false
+      }
+    ]
+  }
+}

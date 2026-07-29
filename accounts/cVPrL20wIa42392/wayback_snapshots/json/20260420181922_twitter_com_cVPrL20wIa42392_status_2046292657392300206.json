@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2046287562864828433",
+    "created_at": "2026-04-20T18:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T19:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046292657392300206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924635881069248512",
+          "start": 0,
+          "username": "imAaron_alun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046292657392300206",
+    "in_reply_to_user_id": "1924635881069248512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046291635533939021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imAaron_alun 其实并不是他的效果美好，主要是戒断反应太大了...让人真的承受不来，其实我无数次想过，如果没有吃过它..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2046287562864828433",
+        "created_at": "2026-04-20T18:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046292657392300206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924635881069248512",
+              "start": 0,
+              "username": "imAaron_alun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046292657392300206",
+        "in_reply_to_user_id": "1924635881069248512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046291635533939021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imAaron_alun 其实并不是他的效果美好，主要是戒断反应太大了...让人真的承受不来，其实我无数次想过，如果没有吃过它..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924635881069248512",
+        "conversation_id": "2046287562864828433",
+        "created_at": "2026-04-20T18:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046291635533939021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046291635533939021",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046287562864828433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 然后安坦也跟着阿普减少，再慢慢的把安坦停掉，这其中戒断是最崩溃的，不吃安坦全身剧痛，只想死掉，和你一样只想说出“是你们逼我的”然后死掉，什么也顾不上因为完全人体完全无法抗衡这种感觉。\n其实pr真比阿普美好太多了，我完全能理解为什么上瘾，吃进去感觉产生活下去的希望了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 396,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-20T01:19:45.000Z",
+        "description": "我不会给你发屌，但你可以给我发屌",
+        "id": "1924635881069248512",
+        "name": "陈小群（见到我请喊我学数学）",
+        "pinned_tweet_id": "1924661282130825239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043649412195651584/ICx8kmVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 30,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 269
+        },
+        "username": "imAaron_alun",
+        "verified": false
+      }
+    ]
+  }
+}

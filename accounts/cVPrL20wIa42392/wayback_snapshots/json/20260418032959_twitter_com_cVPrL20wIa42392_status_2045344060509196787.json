@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2045343138957726173",
+    "created_at": "2026-04-18T03:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045344060509196787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        },
+        {
+          "end": 19,
+          "id": "2034584162246799361",
+          "start": 10,
+          "username": "NDcatbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045344060509196787",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045343138957726173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn @NDcatbot 八级甲！！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2045343113183682560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKEuYka4AAFGJp.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2045343113145880576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKEuYbaEAAfzot.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045343138957726173",
+        "created_at": "2026-04-18T03:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045344060509196787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            },
+            {
+              "end": 19,
+              "id": "2034584162246799361",
+              "start": 10,
+              "username": "NDcatbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045344060509196787",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045343138957726173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn @NDcatbot 八级甲！！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045343113183682560",
+            "3_2045343113145880576"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045343138957726173",
+        "created_at": "2026-04-18T03:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045343138957726173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "2034584162246799361",
+              "start": 39,
+              "username": "NDcatbot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bALqxwSo4W",
+              "end": 87,
+              "expanded_url": "https://x.com/kuukiwfn/status/2045343138957726173/photo/1",
+              "media_key": "3_2045343113183682560",
+              "start": 64,
+              "url": "https://t.co/bALqxwSo4W"
+            },
+            {
+              "display_url": "pic.x.com/bALqxwSo4W",
+              "end": 87,
+              "expanded_url": "https://x.com/kuukiwfn/status/2045343138957726173/photo/1",
+              "media_key": "3_2045343113145880576",
+              "start": 64,
+              "url": "https://t.co/bALqxwSo4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045343138957726173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这面条喵好啊 给我寄快递还备注甲级把☝️🤓\nps:两个QR code都是面条喵@NDcatbot 的拼多多店铺 可以逛一逛呢（ https://t.co/bALqxwSo4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 139,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 778,
+          "like_count": 34663,
+          "listed_count": 0,
+          "media_count": 766,
+          "tweet_count": 2878
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 57,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 115
+        },
+        "username": "NDcatbot",
+        "verified": false
+      }
+    ]
+  }
+}

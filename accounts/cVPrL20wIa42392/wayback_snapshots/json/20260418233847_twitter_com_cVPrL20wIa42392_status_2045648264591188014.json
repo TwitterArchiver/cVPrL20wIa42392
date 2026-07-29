@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045022236201918465",
+    "conversation_id": "2045441333020729675",
+    "created_at": "2026-04-18T23:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T00:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045648264591188014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987868389709422593",
+          "start": 0,
+          "username": "ruki52621534059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045648264591188014",
+    "in_reply_to_user_id": "1987868389709422593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045558428425482732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki52621534059 🤔新疆的不是有很多放芹菜的嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045441333020729675",
+        "created_at": "2026-04-18T23:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045648264591188014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987868389709422593",
+              "start": 0,
+              "username": "ruki52621534059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045648264591188014",
+        "in_reply_to_user_id": "1987868389709422593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045558428425482732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki52621534059 🤔新疆的不是有很多放芹菜的嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987868389709422593",
+        "conversation_id": "2045441333020729675",
+        "created_at": "2026-04-18T17:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045558428425482732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045558428425482732",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045441333020729675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 （虽然挺好吃的但是其实新疆没有这种炒米粉😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 216,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T13:02:21.000Z",
+        "description": "今は愛を探すよ、もともと私を愛するようきみたち人。 可以叫我人类或者ヒト。 重力系顺男| 阴暗系 | 友跨丨消肿且老资历 | 中文 English 日本語  |傻逼 |INFP | ADHD| 亚文化 二次元 视觉系 摇滚 音游 文艺 地偶 说唱 电子音乐 大好き | \n来这里是为了乱说话，看萌萌的东西和交朋友的！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/demon74844",
+                "end": 23,
+                "expanded_url": "https://ngl.link/demon74844",
+                "start": 0,
+                "url": "https://t.co/E0GfgZDTgS"
+              }
+            ]
+          }
+        },
+        "id": "1987868389709422593",
+        "location": "永远的幻想乡",
+        "name": "人間が好き",
+        "pinned_tweet_id": "2041853563375382675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663639071191040/0KKOfsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 121,
+          "like_count": 8918,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/E0GfgZDTgS",
+        "username": "ruki52621534059",
+        "verified": false
+      }
+    ]
+  }
+}
